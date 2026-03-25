@@ -19,7 +19,7 @@ export default function Page() {
         <View style={{ width: 36, height: 36, borderRadius: 18, overflow: 'hidden' }}>
           <UserButton />
         </View>
-        <UserProfileView style={{ flex: 1 }} />
+        {/* <UserProfileView style={{ flex: 1 }} /> */}
       </Show>
     </View>
   )
